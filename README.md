@@ -1,3 +1,4 @@
 # datasciencecoursera
-### Andre Oliveira
+### André Oliveira
+
 The Data Scientist’s Toolbox Repo Coursera
